@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aboutjax/my-first-library/issues"
   },
-  "homepage": "https://github.com/aboutjax/my-first-library#readme"
+  "homepage": "https://github.com/aboutjax/my-first-library#readme",
+  "publishConfig": {
+    "@aboutjax:registry": "https://npm.pkg.github.com"
+  }
 }
